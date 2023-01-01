@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396916649818",
+    "project_id": "unconverter-8dbbd",
+    "storage_bucket": "unconverter-8dbbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396916649818:android:bbf8823d13f61fa8abcd63",
+        "android_client_info": {
+          "package_name": "com.example.unconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396916649818-8dij3c9sqk1v1014nhub4u6gcopl803u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7HWXae-9CX2HLG9HMogh-JruBmdWlHjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396916649818-8dij3c9sqk1v1014nhub4u6gcopl803u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
